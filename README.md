@@ -7,6 +7,9 @@ A fully JSON-configurable bayesian fitting engine (based on
 [ROOT](https://github.com/root-project/root)) for data in the form of ROOT
 histograms. Taylored on GERDA data and Probability Density Functions.
 
+> **Warning**
+> The project has moved to https://github.com/gipert/hmixfit
+
 ### Compile and install
 
 Requirements
